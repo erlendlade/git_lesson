@@ -4,7 +4,7 @@ setwd("~/Documents/git_lesson")
 
 x <- rnorm(500)
 
+# an alternative way forward
 # Important feature
 
-# crazy idea
 # New feature - adding something here
